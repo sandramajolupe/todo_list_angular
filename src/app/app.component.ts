@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { Item } from "./item";
 
 @Component({
-  selector: "app-item",
+  selector: "app-root",
   templateUrl: "./app.component.html",
   styleUrls: ["./app.component.css"],
 })
